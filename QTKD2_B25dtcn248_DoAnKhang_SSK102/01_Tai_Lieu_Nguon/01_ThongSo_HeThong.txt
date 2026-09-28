@@ -1,0 +1,8 @@
+1. - ```text
+     THÔNG SỐ PHẦN CỨNG THIẾT BỊ LÀM VIỆC]
+     - Họ và tên sinh viên: ... | Mã sinh viên: ... | Lớp: ...
+     - Tên và thế hệ vi xử lý (CPU / Apple Silicon Chip): intel core i7
+     - Dung lượng bộ nhớ RAM vật lý (Unified Memory / RAM): 16. GB
+     - Dung lượng ổ cứng còn trống (Ổ C: trên Win / Ổ Macintosh HD trên Mac): 200 GB
+     - Tên và phiên bản hệ điều hành (Windows Edition & Version / macOS Version): win 10
+     ```
